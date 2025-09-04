@@ -1,10 +1,26 @@
 [
   {
-    "country": "United Kingdom",
-    "city": "London",
-    "name": "Gurpurab Celebration",
-    "date": "2025-11-12",
-    "description": "Join us for a special Kirtan Darbar and Langar to celebrate Guru Nanak Dev Ji's Gurpurab at Gurdwara Sri Guru Singh Sabha Southall.",
-    "gurdwara": "Gurdwara Sri Guru Singh Sabha Southall"
+    "id": "event_001",
+    "name": {
+      "en": "Gurpurab Celebration",
+      "pa": "ਗੁਰਪੁਰਬ ਸਮਾਗਮ"
+    },
+    "date": "Sept 15"
+  },
+  {
+    "id": "event_002",
+    "name": {
+      "en": "Blood Donation Camp",
+      "pa": "ਖੂਨਦਾਨ ਕੈਂਪ"
+    },
+    "date": "Sept 20"
+  },
+  {
+    "id": "event_003",
+    "name": {
+      "en": "Youth Camp",
+      "pa": "ਯੂਥ ਕੈਂਪ"
+    },
+    "date": "Oct 5"
   }
 ]
